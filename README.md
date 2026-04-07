@@ -2,7 +2,7 @@
 
 Todos los proyectos de práctica de las rutas de [roadmap.sh][1].
 
-El objetivo era desplegar todas las soluciones a los proyectos prácticos de [roadmap.sh][1] en un solo repositorio y que estén disponibles al alcance de todos.
+El objetivo era practicar y ampliar mis conocimientos en desarrollo web. Desplegué todas las soluciones a los proyectos prácticos de [roadmap.sh][1] en un solo repositorio para que estén disponibles al alcance de todos.
 
 
 ![Preview del proyecto](./assets/preview/00-roadmap.sh-projects.png)
@@ -19,8 +19,8 @@ Todos los proyectos realizados, pendientes y en desarrollo:
 ### Frontend
 1. [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 2. [x] [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-3. [ ] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
-4. [ ] [Changelog Component](https://roadmap.sh/projects/changelog-component)
+3. [x] [Changelog Component](https://roadmap.sh/projects/changelog-component)
+4. [ ] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 5. [ ] [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 6. [ ] [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 7. [ ] [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)

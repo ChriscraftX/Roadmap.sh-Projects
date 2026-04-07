@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #f8fafc;
+  --bg-card: #ffffff;
+  --text: #1e293b;
+  --text-muted: #64748b;
+  --link: #4f46e5;
+  --border: #e2e8f0;
+  --frontend: #0ea5e9;
+  --backend: #f59e0b;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f172a;
+    --bg-card: #1e293b;
+    --text: #f1f5f9;
+    --text-muted: #94a3b8;
+    --link: #818cf8;
+    --border: #334155;
+  }
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  color: var(--text);
+  background-color: var(--bg);
+  padding: 20px;
+}
+
+header {
+  max-width: 800px;
+  margin: 0 auto 40px;
+  text-align: center;
+  padding-bottom: 30px;
+  border-bottom: 2px solid var(--border);
+  & h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  & p {
+    font-size: 1rem;
+    color: var(--text-muted);
+  }
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: 40px;
+  & h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  & article {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    & h3 {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      & span {
+        color: var(--text-muted);
+      }
+    }
+    & p {
+      margin-bottom: 10px;
+      color: var(--text-muted);
+    }
+    & ul {
+      display: flex;
+      gap: 15px;
+      & li {
+        display: inline;
+        & span {
+          color: var(--text-muted);
+          cursor: not-allowed;
+          pointer-events: none;
+        }
+      }
+    }
+  }
+  &.frontend article {
+    border-left: 6px solid var(--frontend);
+  }
+  &.backend article {
+    border-left: 6px solid var(--backend);
+  }
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  &:not(h1 a):hover {
+    text-decoration: underline;
+  }
+}
+
+footer {
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 2px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
