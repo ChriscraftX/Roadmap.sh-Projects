@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Portafolio Gustavo Persson</title>
+
+    <meta name="description" content="Información de Contacto de Gustavo Persson">
+    <meta name="author" content="ChriscraftX">
+
+    <meta property="og:title" content="Contacto - Portafolio Gustavo Persson">
+    <meta property="og:description" content="Información de Contacto de Gustavo Persson">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/04-personal-portfolio">
+    <meta property="og:image" content="https://chriscraftx.github.io/Roadmap.sh-Projects/assets/images/photo.png">
+    <meta property="og:image:alt" content="Foto AI de Gustavo Persson">
+
+    <link rel="icon" href="../../../assets/favicon/favicon.ico" sizes="any">
+    <link rel="icon" href="../../../assets/favicon/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="../../../assets/favicon/apple-touch-icon.png">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+  </head>
+  <body>
+    <div class="frame">
+      <header>
+        <div class="logo">
+          <img src="../../../assets/favicon/favicon.svg" alt="Logo" width="48" height="48">
+          <a href="https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/04-personal-portfolio">Portafolio Gustavo Persson</a>
+        </div>
+        <nav class="navigation">
+          <a href="../">Inicio</a>
+          <a href="../Projects/">Proyectos</a>
+          <a href="../Articles/">Artículos</a>
+          <a href="../Contact/">Contacto</a>
+        </nav>
+      </header>
+      <main>
+        <section class="hero">
+          <h1>Información de Contacto</h1>
+          <p>¿Tienes un proyecto en mente o quieres ponerte en contacto? Escríbeme.</p>
+        </section>
+
+        <form class="contact" method="POST">
+          <fieldset>
+            <legend>Información de contacto</legend>
+            <div>
+              <label for="name">Nombre</label>
+              <input type="text" id="name" name="name" placeholder="Nombre completo" required autocomplete="name">
+            </div>
+            <div>
+              <label for="email">Correo</label>
+              <input type="email" id="email" name="email" placeholder="Correo electrónico" required autocomplete="email">
+            </div>
+            <div>
+              <label for="msg">Mensaje</label>
+              <textarea id="msg" name="msg" placeholder="Aquí su mensaje" required></textarea>
+            </div>
+            <button type="submit">Enviar</button>
+          </fieldset>
+        </form>
+      </main>
+      <footer>
+        <section>
+          <h2>Opiniones</h2>
+          <div class="reviews">
+            <figure>
+              <blockquote>
+                <p>Gustavo siempre entregó más de lo que se le pedía. Su proyecto de gestión de inventario fue el más completo de la clase, con documentación clara y código ordenado.</p>
+              </blockquote>
+              <figcaption><cite>Elena Vásquez</cite>, <small>Profesora universitaria</small></figcaption>
+            </figure>
+            <figure>
+              <blockquote>
+                <p>En seis meses Gustavo pasó de no conocer nuestra base de código a liderar mejoras de accesibilidad que impactaron a miles de usuarios. Un profesional confiable y metódico.</p>
+              </blockquote>
+              <figcaption><cite>Rodrigo Salcedo</cite>, <small>Jefe de pasantía</small></figcaption>
+            </figure>
+            <figure>
+              <blockquote>
+                <p>Le encargué el sitio web de mi negocio sin saber qué esperar. El resultado fue limpio, rápido y fácil de usar. Me explicó cada decisión sin tecnicismos innecesarios.</p>
+              </blockquote>
+              <figcaption><cite>Marta Colina</cite>, <small>Cliente freelance</small></figcaption>
+            </figure>
+          </div>
+        </section>
+        <nav class="navigation">
+          <a href="../">Inicio</a>
+          <a href="../Projects/">Proyectos</a>
+          <a href="../Articles/">Artículos</a>
+          <a href="../Contact/">Contacto</a>
+        </nav>
+        <small class="copyright">&copy; 2026 Todos los derechos reservados.</small>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -20,7 +20,7 @@ Todos los proyectos realizados, pendientes y en desarrollo:
 1. [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 2. [x] [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 3. [x] [Changelog Component](https://roadmap.sh/projects/changelog-component)
-4. [ ] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+4. [x] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 5. [ ] [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 6. [ ] [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 7. [ ] [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
