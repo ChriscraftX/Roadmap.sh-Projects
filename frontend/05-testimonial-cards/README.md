@@ -5,6 +5,7 @@ Quinto proyecto de la ruta de Frontend de [roadmap.sh][1].
 El objetivo fue diseñar varias tarjetas testimoniales para poner en practicas posicionamiento y diseño en CSS, se siguió lo mejor posible el ejemplo de [maquetación][6].
 
 ![Preview del proyecto](../../assets/preview/05-testimonial-cards.png)
+
 ---
 
 ## 🔗 Ver proyecto
@@ -39,6 +40,7 @@ Aclaraciones respecto a la información proporcionada:
 
 > [!IMPORTANT]
 > **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+>
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 

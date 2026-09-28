@@ -5,6 +5,7 @@ Cuarto proyecto de la ruta de Frontend de [roadmap.sh][1].
 El objetivo fue diseñar el sitio web creado en el proyecto [Basic HTML Website](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/02-basic-html-website) y aprender a crear diseños responsivos, aplicar color y tipografía.
 
 ![Preview del proyecto](../../assets/preview/04-personal-portfolio.png)
+
 ---
 
 ## 🔗 Ver proyecto
@@ -45,6 +46,7 @@ Aclaraciones respecto a la información proporcionada:
 
 > [!IMPORTANT]
 > **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+>
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 

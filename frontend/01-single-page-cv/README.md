@@ -5,9 +5,11 @@ Primer proyecto de la ruta de Frontend de [roadmap.sh][1].
 El objetivo fue crear un CV estructurado usando únicamente HTML, sin CSS ni JavaScript, poniendo foco en semántica correcta, metadatos SEO y etiquetas Open Graph.
 
 ![Preview del proyecto](../../assets/preview/01-single-page-cv.png)
+
 ---
 
 ## 🔗 Ver proyecto
+
 Accede al siguiente enlace para ver el proyecto desplegado:
 
 🚀 [Ver Solución][2]
@@ -15,6 +17,7 @@ Accede al siguiente enlace para ver el proyecto desplegado:
 🏠 [Ver Índice de proyectos][5]
 
 ## 🎯 ¿Cuáles son los requisitos del proyecto?
+
 Los requerimientos para cumplir con una solución óptima fueron:
 
 - [x] HTML semántico
@@ -24,20 +27,24 @@ Los requerimientos para cumplir con una solución óptima fueron:
 - [x] Buenas prácticas
 
 ## ⭐ Apoyar mi trabajo
+
 Si consideras que cumplí correctamente cada requisito, puedes votarlo en roadmap.sh con 👍:
 
 ⭐ [Apoyar mi trabajo][3]
 
 ## 🖇️ Referencias
+
 Algunos enlaces de interés:
 
 📋 [Ver idea del proyecto][4]
 
 ## ⚠️ Aclaraciones
+
 Aclaraciones respecto a la información proporcionada:
 
 > [!IMPORTANT]
-> **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos. 
+> **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+>
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 

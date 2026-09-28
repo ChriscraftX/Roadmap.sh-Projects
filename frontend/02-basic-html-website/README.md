@@ -5,6 +5,7 @@ Segundo proyecto de la ruta de Frontend de [roadmap.sh][1].
 El objetivo fue crear un sitio web simple solo en HTML con página `Principal`, `Proyectos`, `Artículos` y `Contacto`. Además me tomé el atrevimiento de usar la metodología de `Directory-based Routing` (_Enrutamiento basado en directorios_) y la técnica de `Pretty URLs` (_URLs limpias_) para los enlaces de las páginas aunque para el proyecto era innecesario.
 
 ![Preview del proyecto](../../assets/preview/02-basic-html-website.png)
+
 ---
 
 ## 🔗 Ver proyecto
@@ -48,6 +49,7 @@ Aclaraciones respecto a la información proporcionada:
 
 > [!IMPORTANT]
 > **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+>
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 

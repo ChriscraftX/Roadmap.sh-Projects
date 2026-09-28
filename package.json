@@ -1,0 +1,57 @@
+{
+  "name": "roadmap-sh-projects",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Colección de proyectos de práctica de roadmap.sh",
+  "scripts": {
+    "prepare": "husky",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint:md": "markdownlint-cli2 \"**/*.md\"",
+    "lint:md:fix": "markdownlint-cli2 --fix",
+    "lint:html": "eslint \"**/*.html\"",
+    "lint:html:fix": "eslint \"**/*.html\" --fix",
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint:css:fix": "stylelint \"**/*.css\" --fix",
+    "lint:js": "eslint \"**/*.js\"",
+    "lint:js:fix": "eslint \"**/*.js\" --fix",
+    "lint:json": "eslint \"**/*.{json,jsonc}\"",
+    "lint:json:fix": "eslint \"**/*.{json,jsonc}\" --fix",
+    "lint": "npm run lint:md && npm run lint:html && npm run lint:css && npm run lint:js && npm run lint:json"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.0",
+    "@html-eslint/eslint-plugin": "^0.66.1",
+    "@html-eslint/parser": "^0.66.1",
+    "eslint": "^10.11.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.5.1",
+    "markdownlint-cli2": "^0.23.3",
+    "prettier": "3.9.9",
+    "stylelint": "^17.15.0",
+    "stylelint-config-standard": "^40.0.0"
+  },
+  "lint-staged": {
+    "*.md": [
+      "markdownlint-cli2 --fix",
+      "prettier --write"
+    ],
+    "*.html": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.css": [
+      "stylelint --fix",
+      "prettier --write"
+    ],
+    "*.{json,jsonc}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{js,mjs}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
+  }
+}

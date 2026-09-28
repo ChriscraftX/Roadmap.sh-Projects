@@ -5,6 +5,7 @@ Tercer proyecto de la ruta de Frontend de [roadmap.sh][1].
 El objetivo fue crear un componente simple para un sitio web que muestre un registro de cambios aplicando posicionamiento y diseño en CSS. Aunque se me permitía libertad creativa preferí enfocarme en la maqueta de ejemplo que se me presentaba, desbordare toda mi creatividad en proyectos posteriores.
 
 ![Preview del proyecto](../../assets/preview/03-changelog-component.png)
+
 ---
 
 ## 🔗 Ver proyecto
@@ -44,6 +45,7 @@ Aclaraciones respecto a la información proporcionada:
 
 > [!IMPORTANT]
 > **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+>
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 
