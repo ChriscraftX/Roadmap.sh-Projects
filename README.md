@@ -22,14 +22,19 @@ Todos los proyectos realizados, pendientes y en desarrollo:
 
 1. [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 2. [x] [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-3. [x] [Changelog Component](https://roadmap.sh/projects/changelog-component)
-4. [x] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
-5. [x] [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
-6. [ ] [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
-7. [ ] [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
-8. [ ] [Image Grid Layout](https://roadmap.sh/projects/image-grid)
-9. [ ] [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
-10. [ ] [Tabs](https://roadmap.sh/projects/simple-tabs)
+3. [ ] [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table)
+4. [ ] [Blog Post Page](https://roadmap.sh/projects/blog-post-page)
+5. [ ] [Contact form](https://roadmap.sh/projects/contact-form)
+6. [ ] [Photo Showcase](https://roadmap.sh/projects/photo-showcase)
+7. [x] [Changelog Component](https://roadmap.sh/projects/changelog-component)
+8. [x] [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+9. [x] [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
+10. [ ] [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
+11. [ ] [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
+12. [ ] [Image Grid Layout](https://roadmap.sh/projects/image-grid)
+13. [ ] [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
+14. [ ] [Tabs](https://roadmap.sh/projects/simple-tabs)
+15. [ ] [Theme Switcher with CSS Variablesbs](https://roadmap.sh/projects/theme-switcher)
 
 ### Backend
 
@@ -52,7 +57,8 @@ Algunos enlaces de interés:
 
 Aclaraciones respecto a la información proporcionada:
 
-> [!IMPORTANT] **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
+> [!IMPORTANT]
+> **Gustavo Persson** es un perfil de desarrollador ficticio creado únicamente para estos proyectos.
 >
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
