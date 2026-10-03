@@ -2,7 +2,7 @@
 
 Todos los proyectos de práctica de las rutas de [roadmap.sh][1].
 
-El objetivo era practicar y ampliar mis conocimientos en desarrollo web. Desplegué todas las soluciones a los proyectos prácticos de [roadmap.sh][1] en un solo repositorio para que estén disponibles al alcance de todos.
+El objetivo es practicar y ampliar mis conocimientos en desarrollo web. Desplegué todas las soluciones a los proyectos prácticos de [roadmap.sh][1] en un solo repositorio para que estén disponibles al alcance de todos.
 
 ![Preview del proyecto](./assets/preview/00-roadmap.sh-projects.png)
 
