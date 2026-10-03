@@ -1,10 +1,10 @@
-# Changelog Component
+# Pricing Comparison Table
 
 Tercer proyecto de la ruta de Frontend de [roadmap.sh][1].
 
-El objetivo fue crear un componente simple para un sitio web que muestre un registro de cambios aplicando posicionamiento y diseño en CSS. Aunque se me permitía libertad creativa preferí enfocarme en la maqueta de ejemplo que se me presentaba, desbordare toda mi creatividad en proyectos posteriores.
+...
 
-![Preview del proyecto](../../assets/preview/07-changelog-component.png)
+<!-- ![Preview del proyecto](../../assets/preview/pricing-comparison-table.png) -->
 
 ---
 
@@ -20,12 +20,7 @@ Accede al siguiente enlace para ver el proyecto desplegado:
 
 Los requerimientos para cumplir con una solución óptima fueron:
 
-- [x] Estructura semántica utilizando HTML simple
-- [x] Posicionamiento y diseño en CSS
-- [x] Dibujar la lineá de tiempo en el diseño
-- [x] Componente responsivo
-- [x] Libertad creativa
-- [x] Buenas prácticas
+<!-- - [ ] {requerimientos} -->
 
 ## ⭐ Apoyar mi trabajo
 
@@ -50,7 +45,7 @@ Aclaraciones respecto a la información proporcionada:
 > - La información personal en los proyectos **no es real**.
 
 [1]: https://roadmap.sh
-[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/07-changelog-component
-[3]: https://roadmap.sh/projects/changelog-component/solutions?u=68bd2cf6d26114391c4bf90c
-[4]: https://roadmap.sh/projects/changelog-component
+[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/{ámbito}/pricing-comparison-table
+[3]: https://roadmap.sh/projects/pricing-comparison-table/solutions?u=68bd2cf6d26114391c4bf90c
+[4]: https://roadmap.sh/projects/pricing-comparison-table
 [5]: https://chriscraftx.github.io/Roadmap.sh-Projects/

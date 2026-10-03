@@ -1,10 +1,10 @@
-# Simple-Page CV
+# Titulo
 
-Primer proyecto de la ruta de Frontend de [roadmap.sh][1].
+{ordinal} proyecto de la ruta de {ámbito} de [roadmap.sh][1].
 
-El objetivo fue crear un CV estructurado usando únicamente HTML, sin CSS ni JavaScript, poniendo foco en semántica correcta, metadatos SEO y etiquetas Open Graph.
+{propósito}
 
-![Preview del proyecto](../../assets/preview/01-single-page-cv.png)
+![Preview del proyecto](../../assets/preview/{nombre-proyecto}.png)
 
 ---
 
@@ -20,11 +20,7 @@ Accede al siguiente enlace para ver el proyecto desplegado:
 
 Los requerimientos para cumplir con una solución óptima fueron:
 
-- [x] HTML semántico
-- [x] Meta tags esenciales para SEO
-- [x] Etiquetas Open Graph para previsualización en redes sociales
-- [x] Favicons modernos
-- [x] Buenas prácticas
+- [ ] {requerimientos}
 
 ## ⭐ Apoyar mi trabajo
 
@@ -49,7 +45,7 @@ Aclaraciones respecto a la información proporcionada:
 > - La información personal en los proyectos **no es real**.
 
 [1]: https://roadmap.sh
-[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/01-single-page-cv
-[3]: https://roadmap.sh/projects/single-page-cv/solutions?u=68bd2cf6d26114391c4bf90c
-[4]: https://roadmap.sh/projects/single-page-cv
+[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/{ámbito}/{nombre-proyecto}
+[3]: https://roadmap.sh/projects/{nombre-proyecto-sin-num}/solutions?u=68bd2cf6d26114391c4bf90c
+[4]: https://roadmap.sh/projects/{nombre-proyecto-sin-num}
 [5]: https://chriscraftx.github.io/Roadmap.sh-Projects/
