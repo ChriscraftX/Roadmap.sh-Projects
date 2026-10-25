@@ -1,9 +1,12 @@
+# EditorConfig: Requiere Soporte/Plugin del Editor
 root = true
 
 [*]
 charset = utf-8
+# Normaliza saltos de línea a LF (Nivel Editor)
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+# Normaliza cantidad espacios para indentación (Debe coincidir con `useTabs: false` y `tabWidth` en `.prettierrc.yaml`)
 indent_style = space
 indent_size = 2

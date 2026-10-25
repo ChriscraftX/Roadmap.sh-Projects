@@ -1,11 +1,10 @@
 {
   "config": {
     "default": true,
-    "MD013": false,
-    "MD033": {
-      "allowed_elements": ["details", "summary"],
-    },
+    "MD013": false, // Prettier no parte la prosa de Markdown: esta regla marcaría errores que no se corrigen solos.
+    "MD024": { "siblings_only": true }, // Permitir la duplicación de encabezados con diferentes padres.
+    "MD033": true // (Valor por defecto) Se tiene presente para cambiar el valor si se requiere de tag html nuevamente.
   },
   "globs": ["**/*.md"],
-  "gitignore": true,
+  "gitignore": true
 }

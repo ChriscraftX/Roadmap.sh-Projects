@@ -1,2 +1,3 @@
+node_modules/
+# Evitar subir config de Obsidian (Por ahora)
 .obsidian/
-node_modules

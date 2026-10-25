@@ -1,0 +1,15 @@
+# Prettier: Requiere `npm install` para instalar `prettier` y sus plugins.
+useTabs: false # Normaliza cantidad espacios para indentación (Debe coincidir con `indent_style: space` y `indent_size: 2` en `.editorconfig`).
+tabWidth: 2
+printWidth: 80
+htmlWhitespaceSensitivity: css
+bracketSameLine: false
+endOfLine: lf # Normaliza saltos de línea a LF (Nivel Formateador)
+singleAttributePerLine: true # Un atributo HTML por línea: Mejores diff (Probando regla).
+singleQuote: true # Convención de JS: comillas simples; los atributos HTML comillas dobles.
+plugins:
+  - '@awmottaz/prettier-plugin-void-html' # Quita la barra de los elementos vacíos.
+overrides:
+  - files: '*.jsonc'
+    options:
+      trailingComma: none # Eslint marca como error las comas finales en .jsonc; sin esto Prettier las añade.

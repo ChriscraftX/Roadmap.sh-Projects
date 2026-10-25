@@ -1,1 +1,6 @@
+# Normaliza saltos de línea a LF (Nivel Git)
 * text=auto eol=lf
+
+# Archivos binarios: sin normalización de saltos ni diffs de texto
+*.png binary
+*.ico binary
