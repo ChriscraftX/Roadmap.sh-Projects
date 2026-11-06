@@ -5,10 +5,8 @@
 1. Refactorizar: Basic HTML Website (Faltan las demas páginas)
 2. Refactorizar: Changelog Component
 3. Refactorizar: Personal Portfolio
-4. Corregir: Actualizar ruta a portfolio-website en README.md
-5. Refactorizar: Testimonial Cards
-6. Redacción: Completar o descartar el README de `pricing-comparison-table`
-7. CI: Implementar la verificación en GitHub cuando se estudie el concepto
+4. Refactorizar: Testimonial Card
+5. CI: Implementar la verificación en GitHub cuando se estudie el concepto
 
 ## 🖥️ Proyectos pendientes
 
