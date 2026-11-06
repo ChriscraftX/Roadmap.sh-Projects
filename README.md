@@ -30,7 +30,7 @@ Todos los proyectos realizados:
 #### 🎨 Nivel 2: CSS
 
 1. [x] [Changelog Component](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/changelog-component/)
-2. [x] [Personal Portfolio](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/personal-portfolio/) <!-- actualizar a: portfolio-website -->
+2. [x] [Personal Portfolio](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/portfolio-website/)
 3. [x] [Testimonial Cards](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/testimonial-cards/)
 
 #### ⚡ Nivel 3: JavaScript

@@ -4,7 +4,7 @@ Cuarto proyecto de la ruta de Frontend de [roadmap.sh][1].
 
 El objetivo fue diseñar el sitio web creado en el proyecto [Basic HTML Website](https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/basic-html-website) y aprender a crear diseños responsivos, aplicar color y tipografía.
 
-![Preview del proyecto](../../assets/preview/personal-portfolio.png)
+![Preview del proyecto](./assets/preview.png)
 
 ---
 
@@ -32,7 +32,7 @@ Los requerimientos para cumplir con una solución óptima fueron:
 
 Si consideras que cumplí correctamente cada requisito, puedes votarlo en roadmap.sh con 👍:
 
-⭐ [Apoyar mi trabajo][3]
+⭐ [Apoyar mi proyecto][3]
 
 ## 🖇️ Referencias
 
@@ -51,7 +51,7 @@ Aclaraciones respecto a la información proporcionada:
 > - La información personal en los proyectos **no es real**.
 
 [1]: https://roadmap.sh
-[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/personal-portfolio
+[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/portfolio-website/
 [3]: https://roadmap.sh/projects/portfolio-website/solutions?u=68bd2cf6d26114391c4bf90c
 [4]: https://roadmap.sh/projects/portfolio-website
 [5]: https://chriscraftx.github.io/Roadmap.sh-Projects/
