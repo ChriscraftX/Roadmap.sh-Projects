@@ -4,7 +4,7 @@ Tercer proyecto de la ruta de Frontend de [roadmap.sh][1].
 
 El objetivo fue crear un componente simple para un sitio web que muestre un registro de cambios aplicando posicionamiento y diseño en CSS. Aunque se me permitía libertad creativa preferí enfocarme en la maqueta de ejemplo que se me presentaba, desbordare toda mi creatividad en proyectos posteriores.
 
-![Preview del proyecto](../../assets/preview/changelog-component.png)
+![Preview del proyecto](./assets/preview.png)
 
 ---
 
@@ -31,7 +31,7 @@ Los requerimientos para cumplir con una solución óptima fueron:
 
 Si consideras que cumplí correctamente cada requisito, puedes votarlo en roadmap.sh con 👍:
 
-⭐ [Apoyar mi trabajo][3]
+⭐ [Apoyar mi proyecto][3]
 
 ## 🖇️ Referencias
 
