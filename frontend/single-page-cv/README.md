@@ -1,10 +1,10 @@
-# Simple-Page CV
+# Single-Page CV
 
 Primer proyecto de la ruta de Frontend de [roadmap.sh][1].
 
 El objetivo fue crear un CV estructurado usando únicamente HTML, sin CSS ni JavaScript, poniendo foco en semántica correcta, metadatos SEO y etiquetas Open Graph.
 
-![Preview del proyecto](../../assets/preview/single-page-cv.png)
+![Preview del proyecto](./assets/preview.png)
 
 ---
 
@@ -24,19 +24,22 @@ Los requerimientos para cumplir con una solución óptima fueron:
 - [x] Meta tags esenciales para SEO
 - [x] Etiquetas Open Graph para previsualización en redes sociales
 - [x] Favicons modernos
+- [x] HTML listo para estilizar
 - [x] Buenas prácticas
 
 ## ⭐ Apoyar mi trabajo
 
 Si consideras que cumplí correctamente cada requisito, puedes votarlo en roadmap.sh con 👍:
 
-⭐ [Apoyar mi trabajo][3]
+⭐ [Apoyar mi proyecto][3]
 
 ## 🖇️ Referencias
 
 Algunos enlaces de interés:
 
 📋 [Ver idea del proyecto][4]
+
+🧠 [Ver bitácora de desarrollo](./DEVLOG.md)
 
 ## ⚠️ Aclaraciones
 
@@ -48,8 +51,10 @@ Aclaraciones respecto a la información proporcionada:
 > - No representa a un desarrollador profesional real.
 > - La información personal en los proyectos **no es real**.
 
+---
+
 [1]: https://roadmap.sh
-[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/single-page-cv
+[2]: https://chriscraftx.github.io/Roadmap.sh-Projects/frontend/single-page-cv/
 [3]: https://roadmap.sh/projects/single-page-cv/solutions?u=68bd2cf6d26114391c4bf90c
 [4]: https://roadmap.sh/projects/single-page-cv
 [5]: https://chriscraftx.github.io/Roadmap.sh-Projects/
