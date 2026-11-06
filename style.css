@@ -12,6 +12,9 @@
   --link: #4f46e5;
   --border: #e2e8f0;
   --frontend: #0ea5e9;
+  --html: #e2564c;
+  --css: #0e99e9;
+  --js: #c99e33;
   --backend: #f59e0b;
 }
 
@@ -64,52 +67,62 @@ section {
   & h2 {
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
-  & article {
-    margin-bottom: 20px;
-    padding: 15px;
-    background-color: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+  div {
+    article {
+      margin-bottom: 20px;
+      padding: 15px;
+      background-color: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
 
-    & h3 {
-      font-size: 1.2rem;
-      margin-bottom: 10px;
-
-      & span {
-        color: var(--text-muted);
-      }
-    }
-
-    & p {
-      margin-bottom: 10px;
-      color: var(--text-muted);
-    }
-
-    & ul {
-      display: flex;
-      gap: 15px;
-
-      & li {
-        display: inline;
+      & h3 {
+        font-size: 1.2rem;
+        margin-bottom: 10px;
 
         & span {
           color: var(--text-muted);
-          cursor: not-allowed;
-          pointer-events: none;
+        }
+      }
+
+      & p {
+        margin-bottom: 10px;
+        color: var(--text-muted);
+      }
+
+      & ul {
+        display: flex;
+        gap: 15px;
+
+        & li {
+          display: inline;
+
+          & span {
+            color: var(--text-muted);
+            cursor: not-allowed;
+            pointer-events: none;
+          }
         }
       }
     }
-  }
 
-  &.frontend article {
-    border-left: 6px solid var(--frontend);
-  }
+    &#projects-html article {
+      border-left: 6px solid var(--html);
+    }
 
-  &.backend article {
-    border-left: 6px solid var(--backend);
+    &#projects-css article {
+      border-left: 6px solid var(--css);
+    }
+
+    &#projects-js article {
+      border-left: 6px solid var(--js);
+    }
+
+    &#projects-cli article {
+      border-left: 6px solid var(--backend);
+    }
   }
 }
 
