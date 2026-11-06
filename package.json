@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Colección de proyectos de práctica de roadmap.sh",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "prepare": "husky",
     "format": "prettier --write .",
