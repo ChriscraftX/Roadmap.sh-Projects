@@ -4,7 +4,7 @@ Quinto proyecto de la ruta de Frontend de [roadmap.sh][1].
 
 El objetivo fue diseñar varias tarjetas testimoniales para poner en practicas posicionamiento y diseño en CSS, se siguió lo mejor posible el ejemplo de [maquetación][6].
 
-![Preview del proyecto](../../assets/preview/testimonial-cards.png)
+![Preview del proyecto](./assets/preview.png)
 
 ---
 
@@ -26,7 +26,7 @@ Los requerimientos para cumplir con una solución óptima fueron:
 
 Si consideras que cumplí correctamente cada requisito, puedes votarlo en roadmap.sh con 👍:
 
-⭐ [Apoyar mi trabajo][3]
+⭐ [Apoyar mi proyecto][3]
 
 ## 🖇️ Referencias
 
