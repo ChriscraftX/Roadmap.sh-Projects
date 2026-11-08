@@ -10,3 +10,7 @@ trim_trailing_whitespace = true
 # Normaliza cantidad espacios para indentación (Debe coincidir con `useTabs: false` y `tabWidth` en `.prettierrc.yaml`)
 indent_style = space
 indent_size = 2
+
+# Compatibilidad con Python
+[*.py]
+indent_size = 4
